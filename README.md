@@ -1,5 +1,15 @@
 # 💫 About Me:
-# Hi there, I'm Ravi Poddar 👋<br><br>> Engineering student · ML & Data Science enthusiast · Open Source contributor<br><br>- 🎓 Engineering student from **India**, passionate about building intelligent systems<br>- 🤖 Focused on **Machine Learning**, **Data Science**, and **DSA with C++**<br>- 🌱 Active contributor to **Sugar Labs** — solving real-world Linux desktop issues and collaborating with a global open-source community<br>- 🧪 Built hands-on **ML & EDA projects** to develop practical AI skills<br>- 🎯 Currently preparing for **Google Summer of Code (GSoC)** through consistent contributions and navigating large codebases<br>- 🛠️ Love clean code, system debugging, and solving hard problems<br><br>
+
+> Engineering student · ML & Data Science enthusiast · Open Source contributor
+
+- 🎓 Engineering student from **India**, passionate about building intelligent systems
+- 🤖 Focused on **Machine Learning**, **Data Science**, **LLMs**, and **DSA with C++**
+- 🧠 Exploring **Large Language Models (LLMs)** and modern **AI/GenAI** workflows
+- 🐳 Working with **Docker** to containerize and deploy ML & AI applications
+- 🌱 Active contributor to **Sugar Labs** — solving real-world Linux desktop issues and collaborating with a global open-source community
+- 🧪 Built hands-on **ML & EDA projects** to develop practical AI skills
+- 🎯 Currently preparing for **Google Summer of Code (GSoC)** through consistent contributions and navigating large codebases
+- 🛠️ Love clean code, system debugging, and solving hard problems
 
 
 ## 🌐 Socials:
